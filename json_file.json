@@ -1,0 +1,16 @@
+[
+	{
+	    "measurement" : "cpu_load_short",
+	    "tags" : {
+	        "host" : "server01",
+	        "region" : "India"
+	    },
+	    "time" : "2020-09-19T06:54:23.117032Z",
+	    "fields" : {
+	        "Float_Value" : 0.64,
+	        "Int_value" : 3,
+	        "String_value" : "Text",
+	        "Bool_value" : true
+	    }
+	}
+]
