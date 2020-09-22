@@ -1,0 +1,37 @@
+{
+    "redis":{
+        "host":"10.196.98.2",
+        "port":"6379",
+        "password":"",
+        "db":"0"
+    },
+    "setname": {
+        "ip":"ip",
+        "domain":"domain",
+        "subnetip":"subnet-ip",
+        "dhcp":"dhcp",
+        "incoming":"c-in",
+        "outgoing":"c-out",
+        "anonymous":"anonymous"
+    },
+    "es": {
+        "host":"10.196.98.2",
+        "port":"9200"    
+    },
+    "kafka": {
+        "server":"10.196.98.2:9092"},
+    
+    "geoip": {
+        "cityfile":"/root/geoip/GeoLite2-City.mmdb"
+    },
+    "topics":{
+        "conn": "luminet_c6jcr2vzhjn5u7g3_zeek-conn"
+    },
+    "mysql":{
+        "host": "127.0.0.1",
+        "username": "luminetuser",
+        "password": "illum1nat3",
+        "database": "luminet"
+    }
+    
+}
