@@ -1,5 +1,5 @@
 
-{"luminet_data":{	
+[{"luminet_data":{	
 	"key_as_string":"2020-09-08T15:05:00.000+05:30",
 	"key":1599557700000,
 	"doc_count":3,
@@ -31,4 +31,4 @@
 	"durationsum":{"value":6},
 	"bytessum":{"value":10205},
 	"missedbytesum":{"value":0}}}
-	
+]	
