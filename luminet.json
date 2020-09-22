@@ -1,0 +1,34 @@
+
+{"luminet_data":{	
+	"key_as_string":"2020-09-08T15:05:00.000+05:30",
+	"key":1599557700000,
+	"doc_count":3,
+	"packetsum":{"value":44},
+	"durationsum":{"value":2},
+	"bytessum":{"value":13869},
+	"missedbytesum":{"value":0}}}
+{"luminet_data":{
+	"key_as_string":"2020-09-08T15:10:00.000+05:30",
+	"key":1599558000000,
+	"doc_count":5,
+	"packetsum":{"value":59},
+	"durationsum":{"value":10},
+	"bytessum":{"value":5969},
+	"missedbytesum":{"value":0}}}
+{"luminet_data":{
+	"key_as_string":"2020-09-08T15:15:00.000+05:30",
+	"key":1599558300000,
+	"doc_count":4,
+	"packetsum":{"value":61},
+	"durationsum":{"value":20},
+	"bytessum":{"value":6509},
+	"missedbytesum":{"value":0}}}	
+{"luminet_data":{
+	"key_as_string":"2020-09-08T15:20:00.000+05:30",
+	"key":1599558600000,
+	"doc_count":4,
+	"packetsum":{"value":83},
+	"durationsum":{"value":6},
+	"bytessum":{"value":10205},
+	"missedbytesum":{"value":0}}}
+	
